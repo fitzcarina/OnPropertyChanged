@@ -1,0 +1,16 @@
+C:\Users\c.fitz\source\repos\PropertyChange\PropertyChange\bin\Debug\PropertyChange.exe.config
+C:\Users\c.fitz\source\repos\PropertyChange\PropertyChange\bin\Debug\PropertyChange.exe
+C:\Users\c.fitz\source\repos\PropertyChange\PropertyChange\bin\Debug\PropertyChange.pdb
+C:\Users\c.fitz\source\repos\PropertyChange\PropertyChange\obj\Debug\PropertyChange.csproj.AssemblyReference.cache
+C:\Users\c.fitz\source\repos\PropertyChange\PropertyChange\obj\Debug\PropertyChange.csproj.SuggestedBindingRedirects.cache
+C:\Users\c.fitz\source\repos\PropertyChange\PropertyChange\obj\Debug\MainWindow.g.cs
+C:\Users\c.fitz\source\repos\PropertyChange\PropertyChange\obj\Debug\App.g.cs
+C:\Users\c.fitz\source\repos\PropertyChange\PropertyChange\obj\Debug\PropertyChange_MarkupCompile.cache
+C:\Users\c.fitz\source\repos\PropertyChange\PropertyChange\obj\Debug\PropertyChange_MarkupCompile.lref
+C:\Users\c.fitz\source\repos\PropertyChange\PropertyChange\obj\Debug\MainWindow.baml
+C:\Users\c.fitz\source\repos\PropertyChange\PropertyChange\obj\Debug\PropertyChange.g.resources
+C:\Users\c.fitz\source\repos\PropertyChange\PropertyChange\obj\Debug\PropertyChange.Properties.Resources.resources
+C:\Users\c.fitz\source\repos\PropertyChange\PropertyChange\obj\Debug\PropertyChange.csproj.GenerateResource.cache
+C:\Users\c.fitz\source\repos\PropertyChange\PropertyChange\obj\Debug\PropertyChange.csproj.CoreCompileInputs.cache
+C:\Users\c.fitz\source\repos\PropertyChange\PropertyChange\obj\Debug\PropertyChange.exe
+C:\Users\c.fitz\source\repos\PropertyChange\PropertyChange\obj\Debug\PropertyChange.pdb
